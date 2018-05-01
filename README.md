@@ -10,13 +10,13 @@ Machine Learning models where implemented using the
 
 ## Dependencies
 
-* Python 3.4
+* Python 3+
 
 * InfluxDB
 
 * Redis
 
-*Recomended*
+**Recomended**
 
 * Jupyter Notebook
 
