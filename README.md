@@ -1,7 +1,7 @@
 
 # Algo-Trading-Crypto
 
-This is a complementary repository for [this paper](). We include our dataset
+This is a complementary repository for [this paper](https://github.com/Vanclief/algo-trading-crypto/blob/master/fv_ag-atcsaml.pdf). We include our dataset
 alongside the scripts that where used for its creation. This study was done for
 the Bitcoin, Ethereum, Litecoin and Ripple cryptocurrencies. However you can run 
 the scripts yourself to collect data from any desired cryptocurrency. 
