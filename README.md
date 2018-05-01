@@ -28,7 +28,8 @@ you can use the *fetch_market_data.py* script and
 
 ## Datasets
 
-TODO: LINKS
+Datasets are included under the data folder in .h5 format. 
+
 
 ## Scripts
 
